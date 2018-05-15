@@ -1,5 +1,7 @@
 # forever
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/linyows/forever.svg)](https://greenkeeper.io/)
+
 A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
 
 ## Installation
